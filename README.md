@@ -169,10 +169,7 @@ cd HazelPro
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
-
-
-Here is a **clean, properly formatted Markdown version** you can paste directly into your `README.md` 👌
-
+```
 ---
 
 ## Running the Project
